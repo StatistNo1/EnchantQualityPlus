@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>EnchantQualityPlus</name>
+  <author>StatistNo1</author>
+  <packageId>StatistNo1.EnchantQualityPlus</packageId>
+  <description>Changes the Enchant Quality psycast from Vanilly Psycasts Expanded to allow enchanting up to Legendary quality.</description>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <loadAfterByVersion>
+    <v1.4>
+      <li>VanillaExpanded.VPsycastsE</li>
+    </v1.4>
+  </loadAfterByVersion>
+  <modDependenciesByVersion>
+    <v1.4>
+      <li>
+        <packageId>VanillaExpanded.VPsycastsE</packageId>
+		<displayName>Vanilla Psycasts Expanded</displayName>
+		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2842502659</steamWorkshopUrl>
+      </li>
+    </v1.4>
+  </modDependenciesByVersion>
+</ModMetaData>
