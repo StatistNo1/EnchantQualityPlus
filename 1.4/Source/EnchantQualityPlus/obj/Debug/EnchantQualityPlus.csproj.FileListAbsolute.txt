@@ -10,3 +10,10 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\---EnchantQuality+\1
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\---EnchantQuality+\1.4_Biotech\Source\EnchantQualityPlus\obj\Debug\EnchantQualityPlus.csproj.CopyComplete
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\---EnchantQuality+\1.4_Biotech\Source\EnchantQualityPlus\obj\Debug\EnchantQualityPlus.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\---EnchantQuality+\1.4_Biotech\Source\EnchantQualityPlus\obj\Debug\EnchantQualityPlus.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\EnchantQualityPlus\1.4\Assemblies\EnchantQualityPlus.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\EnchantQualityPlus\1.4\Assemblies\EnchantQualityPlus.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\EnchantQualityPlus\1.4\Source\EnchantQualityPlus\obj\Debug\EnchantQualityPlus.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\EnchantQualityPlus\1.4\Source\EnchantQualityPlus\obj\Debug\EnchantQualityPlus.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\EnchantQualityPlus\1.4\Source\EnchantQualityPlus\obj\Debug\EnchantQualityPlus.csproj.CopyComplete
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\EnchantQualityPlus\1.4\Source\EnchantQualityPlus\obj\Debug\EnchantQualityPlus.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\EnchantQualityPlus\1.4\Source\EnchantQualityPlus\obj\Debug\EnchantQualityPlus.pdb
